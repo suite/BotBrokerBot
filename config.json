@@ -1,0 +1,24 @@
+{
+  "interval": 1000,
+  "app": {
+    "other": {
+        "twittername": "ShoeZapper",
+        "message": "Did I get it? :D",
+        "price": 300,
+        "keywords": [
+            "Dashe",
+            "Taskbot",
+            "Supreme Slayer"
+        ]
+    },
+    "consumer": {
+      "key": "",
+      "secret": ""
+    },
+    "access": {
+      "token": "",
+      "secret": ""
+    }
+    
+  }
+}
